@@ -1,19 +1,61 @@
-# Telematics Data Visualization Dashboard
+# 📊 Telematics Data Visualization Dashboard
 
-## Description
-A dashboard web application to visualize and monitor real-time telematics data for fleets and vehicles.
+An interactive dashboard web app for visualizing real-time fleet and vehicle telematics data, using Spring MVC backend, Angular frontend, and MongoDB for analytics.
 
-## Tech Stack
-- **Backend**: Java, Spring MVC, MongoDB, REST APIs
-- **Frontend**: Angular
-- **Containerization**: Docker
+---
 
-## Features
-- Real-time data visualization
-- Aggregated insights using MongoDB
-- RESTful service layer for analytics
-- Deployed in Docker containers
+## 🧰 Tech Stack
 
-## How to Run
-1. Backend: `mvn spring-boot:run`
-2. Frontend: `ng serve`
+**Backend**:  
+- Java, Spring MVC, REST APIs  
+- MongoDB, Docker
+
+**Frontend**:  
+- Angular  
+- HTML, TypeScript, Chart.js
+
+---
+
+## ✨ Features
+
+- 🚗 Real-time data visualization for fleet operations
+- 📈 Aggregated statistics via MongoDB queries
+- 🌐 REST API integration with Angular
+- 📦 Docker container support for deployment
+
+---
+
+## 🚀 Getting Started
+
+### 🖥 Backend
+```bash
+cd backend
+mvn spring-boot:run
+```
+
+### 🌐 Frontend
+```bash
+cd frontend
+npm install
+ng serve
+```
+
+---
+
+## 📸 Screenshots
+_Add charts or dashboard screenshots here (optional)_
+
+---
+
+## 🤝 Contributing
+Feel free to fork the repo, open issues, or submit pull requests.
+
+---
+
+## 📬 Contact
+Created by [Rahul Raj Alluri](https://www.linkedin.com/in/rahul-alluri-1b1951203)
+
+---
+
+## ⭐️ Star this Repo
+If you find this project useful, please star it and share!
